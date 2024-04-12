@@ -4,19 +4,12 @@
 }
 
 body {
-    background-color: rgb(0, 0, 0);
-    color: rgb(255, 0, 0);
+    background: url(img/ballers.png);
+    background-color: red;
+    background-repeat:no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: 20%;
 }
 
-.header {
-    display:flex; 
-}
 
-h1 {
-    font-family: "Dancing Script";
-    font-size: 100px;
-}
-
-.container img {
-    display: flex;
-}
